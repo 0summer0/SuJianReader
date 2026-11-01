@@ -1,0 +1,25 @@
+# Xcode user and build state
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.ipa
+*.dSYM
+*.dSYM.zip
+*.xcresult
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+
+# Local signing and configuration
+*.p12
+*.p8
+*.mobileprovision
+.env
+.env.*
+
+# Local synchronization notes
+/SYNCING.md
